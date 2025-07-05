@@ -51,6 +51,21 @@ Screenshots of key notebooks, DLT pipeline, and DBT output can be found in the `
 
 ---
 
+## Quick Start with .dbc File
+
+This repository includes a `.dbc` (Databricks archive) file containing all project notebooks.  
+You can import it directly into your Databricks workspace:
+
+1. Go to **Workspace** in Databricks.
+2. Click the **dropdown arrow** next to your user folder and select **Import**.
+3. Upload the `.dbc` file from this repository.
+4. The full notebook structure will be imported and ready to run.
+
+This allows you to explore or demo the full project without setting up notebooks manually.
+
+
+---
+
 ## Author
 
 **Sanu4039**  
